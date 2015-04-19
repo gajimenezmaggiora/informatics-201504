@@ -161,7 +161,7 @@ Images - Metrics
 * Advanced filters
 * Color statuses
 * New “Cart” interface
-* Automated drug ordering
+* Automated drug ordering/resupply
 * Additional new features based on user feedback
     * Download CSV
     * Status report (interactive chart report)
