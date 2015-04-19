@@ -161,7 +161,6 @@ Images - Metrics
 * Advanced filters
 * Color statuses
 * New “Cart” interface
-* New subjects & sites interfaces
 * Automated drug ordering
 * Additional new features based on user feedback
     * Download CSV
