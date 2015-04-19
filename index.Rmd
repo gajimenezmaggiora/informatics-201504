@@ -374,7 +374,7 @@ Browser Usage on Data Portals (6 months to 3/31/2015)
 * <span class="text-success">Development</span>
 * <span class="text-success">Testing</span>
 * UAT
-* Release
+* <span class="text-success">Release</span>
 * <span class="text-success">Configuration</span>
 * <span class="text-success">Deployment</span>
 
