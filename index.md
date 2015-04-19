@@ -260,7 +260,7 @@ Queries - Search
 
 ---
 
-How do we ensure that these changes are <span class="underline">fully</span> validated?
+How do we ensure that these changes are validated?
 
 ---
 
@@ -404,14 +404,14 @@ Browser Usage on Data Portals (6 months to 3/31/2015)
 ---
 
 ## Status
-* We completed development of this automated validation framework on July 2014
+* We completed development of this automated validation framework in July 2014
 * We completed the first round of automated validation activities in December 2014
-* We achieved full coverage of <span class="text-success">all</span> Data Portal apps on March 31st, 2015
+* We achieved full coverage of <span class="text-success underline">all</span> Data Portal apps in March 2015
 
 ---
 
 ## Status
-* The following tests are running <span class="undeline>nightly</span>:
+* The following tests are running <span class="undeline">nightly</span>:
     * 1k+ Functional Tests
     * 8k+ Unit Tests
 * We plan to continue to expand our test coverage
@@ -425,6 +425,7 @@ Testing Command Center
 ---
 
 Robot in Action
+
 ![test-video](https://youtu.be/D7zqlG8OlZM)
 
 ---
