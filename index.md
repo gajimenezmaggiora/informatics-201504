@@ -264,7 +264,7 @@ How do we ensure that these changes are validated?
 
 ---
 
-# Validation
+# Validation 1.0
 
 ---
 
