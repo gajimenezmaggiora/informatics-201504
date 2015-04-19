@@ -161,12 +161,10 @@ Images - Metrics
 * Advanced filters
 * Color statuses
 * New “Cart” interface
-* New subjects & sites interfaces
 * Automated drug ordering
 * Additional new features based on user feedback
     * Download CSV
     * Status report (interactive chart report)
-
 
 --- &vertical
 
@@ -242,6 +240,12 @@ MedDRA - Batch Coding
 --- &vertical
 
 Queries - Menu
+
+![queries-menu](./images/queries-menu.png)
+
+***
+
+Queries - Search
 
 ![queries-menu](./images/queries-menu.png)
 
@@ -417,6 +421,11 @@ Browser Usage on Data Portals (6 months to 3/31/2015)
 Testing Command Center
 
 ![test-menu](./images/test-menu.png)
+
+---
+
+Robot in Action
+![test-video](https://youtu.be/D7zqlG8OlZM)
 
 ---
 
