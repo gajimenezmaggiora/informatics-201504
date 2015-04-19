@@ -414,6 +414,7 @@ Browser Usage on Data Portals (6 months to 3/31/2015)
 * The following tests are running <span class="undeline">nightly</span>:
     * 1k+ Functional Tests
     * 8k+ Unit Tests
+* The functional tests are running in Chrome and Firefox
 * We plan to continue to expand our test coverage
 
 --- &vertical
