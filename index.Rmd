@@ -115,6 +115,12 @@ Images - Hierarchy
 
 ***
 
+Images - Batch Upload and Tagging
+
+![images-batch-upload](./images/images-batch-upload.png)
+
+***
+
 Images - Metrics
 
 ![images-metrics](./images/images-metrics.png)
