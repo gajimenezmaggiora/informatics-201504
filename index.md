@@ -247,7 +247,7 @@ Queries - Menu
 
 Queries - Search
 
-![queries-menu](./images/queries-menu.png)
+![queries-search](./images/queries-search.png)
 
 ---
 
@@ -416,13 +416,13 @@ Browser Usage on Data Portals (6 months to 3/31/2015)
     * 8k+ Unit Tests
 * We plan to continue to expand our test coverage
 
----
+--- &vertical
 
 Request Management
 
 ![issues](./images/issues.png)
 
----
+***
 
 Testing Command Center
 
