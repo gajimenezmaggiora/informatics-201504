@@ -429,6 +429,12 @@ Testing Command Center
 
 ![test-menu](./images/test-menu.png)
 
+***
+
+Functional Testing Reports
+
+![test-robot](./images/test-robot.png)
+
 ---
 
 Robot in Action
