@@ -308,17 +308,27 @@ How do we ensure that these changes are <span class="underline">fully</span> val
 
 ![browser-timeline](./images/Timeline_of_web_browsers.svg)
 
+["Timeline of web browsers" by I, ADeveria. Licensed under CC BY-SA 3.0 via Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Timeline_of_web_browsers.svg#/media/File:Timeline_of_web_browsers.svg)
+
 ---
 ## Rapid Change in Browsers
 
 * Firefox and Chrome release a new version every 6 weeks
-* Internet Explore has been deprecated by Microsoft
+* Microsoft recently deprecated support for Internet Explorer
     * [Phaseout of Internet Explorer Stirs No Grief](http://ww2.cfo.com/mobile/2015/04/phaseout-internet-explorer-stirs-no-grief/)
 * Microsoft is launching Spartan
 
 ---
 
+Browser Share on Data Portals (Q1 2015)
+
 ![browser-share](./images/browser-share.png)
+
+---
+
+Browser Usage on Data Portals (6 months to 3/31/2015)
+
+![Browser Usage](./images/browser-usage.png)
 
 ---
 
@@ -330,23 +340,91 @@ How do we ensure that these changes are <span class="underline">fully</span> val
 
 ---
 
-## Initial Validation
-
-![Browser List](./images/browser-list.png)
+# Automated Validation
 
 ---
 
-## Initial Validation
+## Software Development Life Cycle
 
-![Browser Usage](./images/browser-usage.png)
+* Request
+* Approval
+* Design
+* Specification
+* Requirements
+* Development
+* Testing
+* UAT
+* Release
+* Configuration
+* Deployment
+
+---
+
+## Software Development Life Cycle
+
+* <span class="text-success">Request</span>
+* Approval
+* Design
+* <span class="text-success">Specification</span>
+* <span class="text-success">Requirements</span>
+* <span class="text-success">Development</span>
+* <span class="text-success">Testing</span>
+* UAT
+* Release
+* <span class="text-success">Configuration</span>
+* <span class="text-success">Deployment</span>
+
+---
+
+## Tools
+
+* Git (Version Control)
+* Github (Cloud-based Version Control Service)
+* Jenkins (Task Queue)
+* Amazon Web Services (Platform as a Service)
+* Robot (Automated Functional Testing)
+* Foreman + Puppet (Provisioning and Configuration Management)
+* Spacewalk (Package Management)
+
+---
+
+## Benefits
+* Manage and test all software and system deliverables on a ongoing basis
+    * Reproducibility
+    * Flexibility
+    * Scalability
+    * Visibility
+    * Metrics
+* Testing becomes central to the overall development process
+
+---
+
+## Status
+* We completed development of this automated validation framework on July 2014
+* We completed the first round of automated validation activities in December 2014
+* We achieved full coverage of <span class="text-success">all</span> Data Portal apps on March 31st, 2015
+
+---
+
+## Status
+* The following tests are running <span class="undeline>nightly</span>:
+    * 1k+ Functional Tests
+    * 8k+ Unit Tests
+* We plan to continue to expand our test coverage
+
+---
+
+Testing Command Center
+
+![test-menu](./images/test-menu.png)
 
 ---
 
 # Roadmap
 
 * Improvements to the Help app
-* Working with Medavante
-* Working on GAAIN
+* Developing new approaches to integration of external data
+* Working on with LONI to add ADCS data to GAAIN
 * Preparing for A5
 * Working with Safety on RBM
 * Working with Stats on Reporting
