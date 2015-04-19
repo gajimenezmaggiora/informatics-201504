@@ -43,7 +43,7 @@ April 19th, 2015
 <td><span class="text-success">Launched!!!</span></td>
 </tr>
 <tr>
-<td>RAS</td>
+<td>CCF-RAS</td>
 <td><span class="text-success">Launched!!!</span></td>
 </tr>
 <tr>
@@ -92,8 +92,8 @@ April 19th, 2015
 ## Improvements
 
 * Multiple modalities
-* Study-specific, multi-user workflows
-* Inventory management
+* Study-specific, multi-user collaborative workflows
+* Traceability and transparency
 * Tagging capabilities allow users to flexibly organize and search for images
 * Manage processed or derived images
     * Link derived images to source images to establish provenance across modalities
@@ -228,6 +228,8 @@ MedDRA - Batch Coding
 
 ## Improvements
 * Usability and Layout
+    * All query related-information is visible
+    * Modal vs drawer
 * More filters
   * Created-by
   * Touched-by
@@ -262,6 +264,13 @@ How do we ensure that these changes are <span class="underline">fully</span> val
 
 ---
 
+<blockquote>
+<p>When any change (even a small change) is made to the software, the validation status of the software needs to be re-established.</p>
+<small>General Principles of Software validation; Final Guidance for Industry and FDA Staff</small>
+</blockquote>
+
+---
+
 ## Initial Validation
 
 * Completed in December 2012
@@ -293,17 +302,23 @@ How do we ensure that these changes are <span class="underline">fully</span> val
     * Traditional approach is resource intensive and difficult to replicate
     * Our user community demands constant innovation
     * Our business requirements are evolving and study-specific
+    * By design, we have a key dependency on web browsers, which are rapidly changing
 
 ---
 
-## Initial Validation
+![browser-timeline](./images/Timeline_of_web_browsers.svg)
 
-* Observations:
-    * By design, we have a key dependency on web browsers, which are rapidly changing\*:
-      * Firefox releases a new version every 6 weeks
-      * Chrome has had 4 new releases in the past 6 months
+---
+## Rapid Change in Browsers
 
-![Browser Updates](./images/browser-updates.png)
+* Firefox and Chrome release a new version every 6 weeks
+* Internet Explore has been deprecated by Microsoft
+    * [Phaseout of Internet Explorer Stirs No Grief](http://ww2.cfo.com/mobile/2015/04/phaseout-internet-explorer-stirs-no-grief/)
+* Microsoft is launching Spartan
+
+---
+
+![browser-share](./images/browser-share.png)
 
 ---
 
