@@ -444,9 +444,9 @@ Robot in Action
 # Roadmap
 
 * Improvements to the Help app
-* Developing new approaches to integration of external data
 * Working on with LONI to add ADCS data to GAAIN
 * Preparing for A5 and future studies
+* Developing new approaches to integration of external data and data sharing
 * Working with Safety Stats on RBM
 * Working with Stats on Reporting
 * Working with Biomarker on LIMS
