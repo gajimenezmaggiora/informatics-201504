@@ -453,7 +453,7 @@ Robot in Action
 
 ---
 
-# Thanks
+# Thank You
 
 ---
 
