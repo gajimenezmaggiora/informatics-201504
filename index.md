@@ -431,6 +431,12 @@ Testing Command Center
 
 ***
 
+Unit Testing Reports
+
+![test-unit](./images/test-unit.png)
+
+***
+
 Functional Testing Reports
 
 ![test-robot](./images/test-robot.png)
