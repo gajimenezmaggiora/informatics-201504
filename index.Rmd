@@ -426,7 +426,11 @@ Testing Command Center
 
 Robot in Action
 
-![test-video](https://youtu.be/D7zqlG8OlZM)
+[test-video](https://youtu.be/D7zqlG8OlZM)
+
+<section>
+  <iframe data-src="https://youtu.be/D7zqlG8OlZM"></iframe>
+</section>
 
 ---
 
@@ -435,8 +439,8 @@ Robot in Action
 * Improvements to the Help app
 * Developing new approaches to integration of external data
 * Working on with LONI to add ADCS data to GAAIN
-* Preparing for A5
-* Working with Safety on RBM
+* Preparing for A5 and future studies
+* Working with Safety Stats on RBM
 * Working with Stats on Reporting
 * Working with Biomarker on LIMS
 
