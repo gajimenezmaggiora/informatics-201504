@@ -418,6 +418,12 @@ Browser Usage on Data Portals (6 months to 3/31/2015)
 
 ---
 
+Request Management
+
+![issues](./images/issues.png)
+
+---
+
 Testing Command Center
 
 ![test-menu](./images/test-menu.png)
