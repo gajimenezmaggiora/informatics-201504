@@ -109,15 +109,27 @@ Images - Menu
 
 ***
 
-Images - Hierarchy
+Images - Seach
 
-![images-tree](./images/images-tree.png)
+![images-search](./images/images-search.png)
 
 ***
 
-Images - Batch Upload and Tagging
+Images - Batch Upload, Linking and Tagging
 
 ![images-batch-upload](./images/images-batch-upload.png)
+
+***
+
+Images - Amyloid Pet Workflow
+
+![fyn-amypet-flow](./images/fyn-amypet-flow.jpg)
+
+***
+
+Images - Hierarchy
+
+![images-tree](./images/images-tree.png)
 
 ***
 
@@ -129,7 +141,7 @@ Images - Metrics
 
 ## Release Schedule
 
-* Launched on FYN
+* <span class="text-success">Launched on FYN</span>
 * Plan to upgrade in the next 6 months:
     * A4 / LEARN
     * INI
@@ -177,7 +189,7 @@ IPT - Status Report
 ---
 
 ## Release Schedule
-* Launched on FYN
+* <span class="text-success">Launched on FYN</span>
 * TCAD - May, 2015
 * INI - ?
 
@@ -225,7 +237,7 @@ MedDRA - Batch Coding
 * Tagging
 * Starring - follow a query
 
----
+--- &vertical
 
 Queries - Menu
 
@@ -234,7 +246,7 @@ Queries - Menu
 ---
 
 ## Release Schedule
-* Launched on FYN
+* <span class="text-success">Launched on FYN and CCF-RAS</span>
 * Plan to upgrade in the next 6 months:
     * A4 / LEARN
     * INI
